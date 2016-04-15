@@ -1,0 +1,6 @@
+/**
+ * @author odobrescu
+ *
+ */
+
+package backgammon;
